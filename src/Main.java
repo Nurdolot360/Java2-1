@@ -23,6 +23,7 @@ public class Main {
                 +"\n"+"meshkoll: "+nurdolot.meshkoll+"\n"+"kurs: "+nurdolot.kurs+"\n"+"rodilsa: "+nurdolot.rodilsa+"\n"+"maheight: "+nurdolot.meheight+"\n"+"favoriteSport: "+nurdolot.favoriteSport
                 +"\n"+"favoriteSubject: "+nurdolot.favoriteSubject+"\n"+"FavoriteColor: "+nurdolot.FavoriteColor+"\n"+"FavoriteFood:" +nurdolot.FavoriteFood+"\n"+"meTelefon: "+nurdolot.meTelefon+"\n"
                 +"meNoutbook: "+nurdolot.meNoutbook+"\n"+"FavoriteMusic: "+nurdolot.FavoriteMusic+"\n"+"FavoriteDidjei: "+nurdolot.FavoriteDidjei);
+        System.out.println();
         Nursalin nursalin = new Nursalin();
         nursalin.name = "Nursalin";
         nursalin.surname = "Musaev";
