@@ -38,5 +38,6 @@ public class Main {
         System.out.println("name  :" + nursalin.name + "\n" + "surname  :" + nursalin.surname + "\n" + "patronymic : " + nursalin.patronymic + "\n" + "" +
                 "living place :" + nursalin.livingPlace + "\n" + "was born :" + nursalin.wasBorn + "\n" + "how old :" + nursalin.howOld + "\n" + "what Are you doing :" +
                 nursalin.whatAreYouDoing + "\n" + " hobby :" + nursalin.hobby + "\n" + "you weigh :" + nursalin.youWeigh + "\n" + "street :" + nursalin.street);
+        
     }
 }
